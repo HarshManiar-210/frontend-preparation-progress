@@ -1,455 +1,343 @@
-📌 Frontend Interview Preparation — Smart Checklist
+---
 
-Track your preparation progress across each category!
-Update the checklist ✔ to automatically reflect your progress on GitHub.
+# 🎯 Frontend Interview Preparation Kit
 
-📅 Week 1 — HTML / CSS / JavaScript Revision
+A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to master Frontend Engineering interview skills — HTML → CSS → JavaScript → Web Fundamentals → React → System Design → DSA.
 
-Progress: 0 / 63 completed (0%)
+> **Track progress by checking items below — GitHub will auto-save your progress ✔**
 
-<details> <summary><strong>📘 HTML — Topics</strong> <sub>(0/8)</sub></summary>
+---
 
- HTML5 Features
+## 📅 Week 1 — HTML, CSS & JavaScript Revision
 
- Document Structure
+**Progress:** `0 / 63` **(0%)**
 
- Forms (Types, Attributes & Validations)
+<details>
+<summary><strong>📘 HTML Topics</strong>  <sub>(0/8)</sub></summary>
 
- Semantic Tags
-
- Meta Tags
-
- Media Tags (img/audio/video)
-
- SEO with HTML
-
- IFrames
-
-</details>
-<details> <summary><strong>🎨 CSS — Topics</strong> <sub>(0/12)</sub></summary>
-
- Box Model
-
- Cascading
-
- Specificity
-
- Flexbox
-
- Grid
-
- CSS Selectors
-
- Pseudo-classes vs Pseudo-elements
-
- CSS Units (Absolute vs Relative)
-
- Positioning
-
- Animations & Transitions
-
- z-index
-
- Accessibility
+* [ ] HTML5 Features
+* [ ] Document Structure
+* [ ] Forms (Input Types, Attributes, Validations)
+* [ ] Semantic Tags
+* [ ] Meta Tags
+* [ ] Media Tags (img/audio/video)
+* [ ] SEO with HTML
+* [ ] IFrames
 
 </details>
-<details> <summary><strong>⚡ JavaScript — Topics</strong> <sub>(0/43)</sub></summary>
 
- Execution Context
+<details>
+<summary><strong>🎨 CSS Topics</strong>  <sub>(0/12)</sub></summary>
 
- Call Stack
-
- Data Types
-
- Array Methods
-
- Object Methods
-
- let / var / const
-
- Hoisting + TDZ
-
- Illegal Shadowing
-
- Scope & Scope Chaining
-
- Mutable vs Immutable
-
- Shallow vs Deep Copy
-
- DOM vs BOM
-
- Critical Rendering Path
-
- Functions
-
- Declaration
-
- Expression
-
- Arrow Functions
-
- IIFE
-
- Functional Programming
-
- this keyword
-
- Call, Apply, Bind
-
- Closures & Use Cases
-
- Callbacks
-
- Promises
-
- Async/Await
-
- Currying
-
- Debounce
-
- Throttle
-
- Event Propagation (Bubble / Capture / Delegation)
-
- Prototype & Inheritance
-
- Memoization
-
- Generators
-
- Event Loop + Micro & Macro tasks
-
- DOM Lifecycle Events
-
- async / defer
-
- Polyfills
-
- Web APIs
-
- setTimeout & setInterval
-
- Higher Order Functions
-
- How JS Engine Works
+* [ ] Box Model
+* [ ] Cascading
+* [ ] Specificity
+* [ ] Flexbox
+* [ ] Grid
+* [ ] CSS Selectors
+* [ ] Pseudo-classes vs Pseudo-elements
+* [ ] Measurement Units
+* [ ] Positioning
+* [ ] Animations & Transitions
+* [ ] z-index
+* [ ] Accessibility
 
 </details>
-📅 Week 2 — Mini Projects + Coding Practice
 
-Progress: 0 / 19 completed (0%)
+<details>
+<summary><strong>⚡ JavaScript Topics</strong>  <sub>(0/43)</sub></summary>
 
-<details> <summary><strong>🧩 Mini Projects</strong> <sub>(0/19)</sub></summary>
+* [ ] Execution Context & Call Stack
+* [ ] Data Types + Methods
+* [ ] let / var / const
+* [ ] Hoisting + TDZ
+* [ ] Scope + Shadowing
+* [ ] Mutable vs Immutable
+* [ ] Shallow vs Deep Copy
+* [ ] DOM & BOM
+* [ ] Critical Rendering Path
+* [ ] Functions
 
- Star Rating
-
- Debounced Search Bar
-
- Autocomplete / Typeahead
-
- Todo List (CRUD)
-
- Carousel
-
- Accordion
-
- Popover
-
- Infinite Scroll
-
- Tic Tac Toe
-
- Image Gallery
-
- Poll Widget
-
- Event Emitter
-
- Kanban Board
-
- Chat App
-
- Comment Widget
-
- Food Ordering App
-
- Calculator
-
- Progress Bar Control
-
- Day Calendar / DnD Todo
+  * [ ] Declaration
+  * [ ] Expression
+  * [ ] Arrow Functions
+  * [ ] IIFE
+  * [ ] Functional Programming
+* [ ] `this` Keyword
+* [ ] Call / Apply / Bind
+* [ ] Closures
+* [ ] Callbacks & Promise
+* [ ] Async / Await
+* [ ] Currying
+* [ ] Debounce & Throttle
+* [ ] Event Propagation
+* [ ] Prototype & Prototypal Inheritance
+* [ ] Memoization
+* [ ] Generators
+* [ ] Event Loop
+* [ ] Lifecycle Events
+* [ ] async/defer
+* [ ] Polyfills
+* [ ] Web APIs
+* [ ] setTimeout / setInterval
+* [ ] Higher Order Functions
+* [ ] JS Engine Working
 
 </details>
-📅 Week 3 — Web Fundamentals
 
-Progress: 0 / 57 completed (0%)
+---
 
-<details> <summary><strong>📊 Web Vitals</strong> <sub>(0/6)</sub></summary>
+## 📅 Week 2 — Practical JavaScript & Mini Projects
 
- CLS
+**Progress:** `0 / 19` **(0%)**
 
- FID
+<details>
+<summary><strong>🧩 Mini Projects</strong> <sub>(0/19)</sub></summary>
 
- LCP
-
- INP
-
- FCP
-
- TTFB
-
-</details>
-<details> <summary><strong>🚀 Performance Optimization</strong> <sub>(0/10)</sub></summary>
-
- Image Optimization
-
- Video Optimization
-
- Reduce JS Payload
-
- Resource Delivery Optimization
-
- CSS Optimization
-
- Third-party Optimization
-
- Font Optimization
-
- Network Optimization
-
- Webpack (Splitting, Compression)
-
- Loading Strategy
+* [ ] Star Rating
+* [ ] Debounced Search Bar
+* [ ] Typeahead / Autocomplete
+* [ ] Todo List (CRUD)
+* [ ] Carousel
+* [ ] Accordion
+* [ ] Popover
+* [ ] Infinite Scroll
+* [ ] Tic Tac Toe
+* [ ] Image Gallery
+* [ ] Poll Widget
+* [ ] Event Emitter
+* [ ] Kanban Board
+* [ ] Basic Chat App
+* [ ] Comment Widget
+* [ ] Food Ordering App
+* [ ] Calculator
+* [ ] Progress Bar Controller
+* [ ] Drag & Drop Todo
 
 </details>
-<details> <summary><strong>🗄 Browser Storage</strong> <sub>(0/5)</sub></summary>
 
- Local Storage
+---
 
- Session Storage
+## 📅 Week 3 — Web Fundamentals
 
- Cookies
+**Progress:** `0 / 57` **(0%)**
 
- IndexedDB
+<details>
+<summary><strong>📊 Web Vitals</strong> <sub>(0/6)</sub></summary>
 
- Cache API
-
-</details>
-<details> <summary><strong>🌐 Networking</strong> <sub>(0/8)</sub></summary>
-
- Fetch API
-
- Abort Controller
-
- XHR
-
- CORS
-
- Long Polling
-
- WebSockets
-
- Server Sent Events
-
- Web Workers + Service Workers
+* [ ] CLS
+* [ ] FID
+* [ ] LCP
+* [ ] INP
+* [ ] FCP
+* [ ] TTFB
 
 </details>
-<details> <summary><strong>🧱 DOM Concepts</strong> <sub>(0/4)</sub></summary>
 
- Shadow DOM
+<details>
+<summary><strong>🚀 Performance Optimization</strong> <sub>(0/10)</sub></summary>
 
- Declarative Shadow DOM
-
- Virtual DOM
-
- Core DOM APIs
-
-</details>
-<details> <summary><strong>🔐 Security</strong> <sub>(0/8)</sub></summary>
-
- XSS
-
- CSRF
-
- SQL Injection
-
- DDoS
-
- MITM
-
- CSP
-
- CORS Rules
-
- HTTP Security Headers
+* [ ] Image Optimization
+* [ ] Video Optimization
+* [ ] JavaScript Reduction
+* [ ] Resource Loading Optimization
+* [ ] CSS Optimization
+* [ ] Third-party Optimization
+* [ ] Font Optimization
+* [ ] Network Performance
+* [ ] Webpack Optimization
+* [ ] Loading Strategies
 
 </details>
-<details> <summary><strong>🏗 JavaScript Design Patterns</strong> <sub>(0/6)</sub></summary>
 
- Singleton
+<details>
+<summary><strong>🗄 Browser Storage</strong> <sub>(0/5)</sub></summary>
 
- Module
-
- Factory
-
- Proxy
-
- Observer
-
- Prototype
+* [ ] Local Storage
+* [ ] Session Storage
+* [ ] Cookies
+* [ ] IndexedDB
+* [ ] Cache API
 
 </details>
-<details> <summary><strong>⚛ React Design Patterns</strong> <sub>(0/6)</sub></summary>
 
- Container / Presentational
+<details>
+<summary><strong>🌐 Networking & APIs</strong> <sub>(0/8)</sub></summary>
 
- HOC
-
- Render Props
-
- Hooks
-
- Provider
-
- Compound Pattern
-
-</details>
-<details> <summary><strong>🖥 Rendering Patterns</strong> <sub>(0/11)</sub></summary>
-
- CSR
-
- SSR
-
- SSG
-
- Static Rendering
-
- ISR
-
- Progressive Hydration
-
- Streaming SSR
-
- RSC
-
- Selective Hydration
-
- Islands Architecture
-
- View Transition Animations
+* [ ] Fetch API
+* [ ] Abort Controller
+* [ ] XMLHttpRequest
+* [ ] CORS
+* [ ] Long Polling
+* [ ] WebSockets
+* [ ] Server Sent Events
+* [ ] Web Workers & Service Workers
 
 </details>
-<details> <summary><strong>📈 Performance Patterns</strong> <sub>(0/13)</sub></summary>
 
- Loading Sequence
+<details>
+<summary><strong>🧱 DOM Concepts</strong> <sub>(0/4)</sub></summary>
 
- Static Import
-
- Dynamic Import
-
- Import on Visibility
-
- Import on Interaction
-
- Route Splitting
-
- Bundle Splitting
-
- PRPL
-
- Tree Shaking
-
- Preload
-
- Prefetch
-
- Preconnect
-
- Virtualization
+* [ ] Shadow DOM
+* [ ] Declarative Shadow DOM
+* [ ] Virtual DOM
+* [ ] DOM API
 
 </details>
-<details> <summary><strong>📦 Additional Web Topics</strong> <sub>(0/4)</sub></summary>
 
- How Web Works
+<details>
+<summary><strong>🔐 Security Concepts</strong> <sub>(0/8)</sub></summary>
 
- HTTPS
-
- REST vs SOAP
-
- HTTP Headers
-
-</details>
-📅 Week 4 — Frontend System Design
-
-Progress: 0 / 3 completed (0%)
-
-<details> <summary><strong>📐 System Design Practice</strong> <sub>(0/3)</sub></summary>
-
- Watch lectures
-
- Solve practice problems
-
- Learn System Design Framework
+* [ ] XSS
+* [ ] CSRF
+* [ ] SQL Injection
+* [ ] DDoS
+* [ ] MITM
+* [ ] CSP
+* [ ] CORS
+* [ ] Security Headers
 
 </details>
-📅 Week 5 — React Deep Dive
 
-Progress: 0 / 17 completed (0%)
+<details>
+<summary><strong>🏗 JavaScript Design Patterns</strong> <sub>(0/6)</sub></summary>
 
-<details> <summary><strong>⚛ React Topics</strong> <sub>(0/17)</sub></summary>
+* [ ] Singleton
+* [ ] Module
+* [ ] Factory
+* [ ] Proxy
+* [ ] Observer
+* [ ] Prototype
+
+</details>
+
+<details>
+<summary><strong>⚛ React Design Patterns</strong> <sub>(0/6)</sub></summary>
+
+* [ ] Container / Presentational
+* [ ] HOC
+* [ ] Render Props
+* [ ] Hooks
+* [ ] Provider
+* [ ] Compound Components
+
+</details>
+
+<details>
+<summary><strong>🖥 Rendering Patterns</strong> <sub>(0/11)</sub></summary>
+
+* [ ] CSR
+* [ ] SSR
+* [ ] SSG
+* [ ] Static Rendering
+* [ ] ISR
+* [ ] Progressive Hydration
+* [ ] Streaming SSR
+* [ ] RSC
+* [ ] Selective Hydration
+* [ ] Islands Architecture
+* [ ] View Transitions
+
+</details>
+
+<details>
+<summary><strong>⚙ Performance Patterns</strong> <sub>(0/13)</sub></summary>
+
+* [ ] Optimize Loading Sequence
+* [ ] Static Import
+* [ ] Dynamic Import
+* [ ] Import on Visibility
+* [ ] Import on Interaction
+* [ ] Route Splitting
+* [ ] Bundle Splitting
+* [ ] PRPL Pattern
+* [ ] Tree Shaking
+* [ ] Preload
+* [ ] Prefetch
+* [ ] Preconnect
+* [ ] Virtualization
+
+</details>
+
+<details>
+<summary><strong>📦 Other Essential Topics</strong> <sub>(0/4)</sub></summary>
+
+* [ ] How Web Works
+* [ ] HTTPS
+* [ ] REST vs SOAP
+* [ ] HTTP Headers
+
+</details>
+
+---
+
+## 📅 Week 4 — Frontend System Design
+
+**Progress:** `0 / 3` **(0%)**
+
+<details>
+<summary><strong>📐 System Design Practice</strong> <sub>(0/3)</sub></summary>
+
+* [ ] Watch System Design Tutorials
+* [ ] Practice BFS/GreatFrontend Questions
+* [ ] Learn System Design Framework
+
+</details>
+
+---
+
+## 📅 Week 5 — Deep Dive into React
+
+**Progress:** `0 / 17` **(0%)**
+
+<details>
+<summary><strong>⚛ React Core Topics</strong> <sub>(0/17)</sub></summary>
 
 Hooks:
 
- useState
+* [ ] useState
+* [ ] useEffect
+* [ ] useCallback
+* [ ] useMemo
+* [ ] useRef
+* [ ] useReducer
+* [ ] useContext
+* [ ] useId
+* [ ] useLayoutEffect
 
- useEffect
+Additional:
 
- useCallback
-
- useMemo
-
- useRef
-
- useReducer
-
- useContext
-
- useId
-
- useLayoutEffect
-
-Other:
-
- Virtual DOM
-
- Reconciliation
-
- Diffing
-
- Performance Optimization
-
- Lifecycle Methods
-
- Custom Hooks Practice
-
- React Patterns
-
- Coding Challenges
+* [ ] Virtual DOM
+* [ ] Reconciliation + Diffing
+* [ ] Performance Optimization
+* [ ] Lifecycle Methods
+* [ ] Custom Hooks Practice
+* [ ] React Patterns
+* [ ] Coding Challenges (Mini Apps)
 
 </details>
-📅 Week 6 — DSA for Frontend
 
-Progress: 0 / 4 completed (0%)
+---
 
-<details> <summary><strong>🧠 DSA Essentials</strong> <sub>(0/4)</sub></summary>
+## 📅 Week 6 — Frontend-focused DSA
 
- Blind 75
+**Progress:** `0 / 4` **(0%)**
 
- Arrays
+<details>
+<summary><strong>🧠 DSA Essentials</strong> <sub>(0/4)</sub></summary>
 
- Strings
-
- Sorting
+* [ ] Blind 75
+* [ ] Arrays
+* [ ] Strings
+* [ ] Sorting
 
 </details>
+
+---
+
+### 🏁 Final Notes
+
+> 🔁 Keep tracking progress daily
+> 🧠 Focus on **why** behind each concept
+> 💻 Practice by implementing everything you learn
+> 🎤 Mock interviews boost confidence
