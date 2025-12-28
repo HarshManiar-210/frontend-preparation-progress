@@ -4,13 +4,10 @@
 
 A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to master Frontend Engineering interview skills — HTML → CSS → JavaScript → Web Fundamentals → React → System Design → DSA.
 
-> **Track progress by checking items below — GitHub will auto-save your progress ✔**
-
 ---
 
 ## 📅 Week 1 — HTML, CSS & JavaScript Revision
 
-**Progress:** `0 / 63` **(0%)**
 
 <details>
 <summary><strong>📘 HTML Topics</strong>  <sub>(0/8)</sub></summary>
@@ -89,7 +86,6 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 
 ## 📅 Week 2 — Practical JavaScript & Mini Projects
 
-**Progress:** `0 / 19` **(0%)**
 
 <details>
 <summary><strong>🧩 Mini Projects</strong> <sub>(0/19)</sub></summary>
@@ -119,8 +115,6 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 ---
 
 ## 📅 Week 3 — Web Fundamentals
-
-**Progress:** `0 / 57` **(0%)**
 
 <details>
 <summary><strong>📊 Web Vitals</strong> <sub>(0/6)</sub></summary>
@@ -273,7 +267,6 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 
 ## 📅 Week 4 — Frontend System Design
 
-**Progress:** `0 / 3` **(0%)**
 
 <details>
 <summary><strong>📐 System Design Practice</strong> <sub>(0/3)</sub></summary>
@@ -287,8 +280,6 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 ---
 
 ## 📅 Week 5 — Deep Dive into React
-
-**Progress:** `0 / 17` **(0%)**
 
 <details>
 <summary><strong>⚛ React Core Topics</strong> <sub>(0/17)</sub></summary>
@@ -321,8 +312,6 @@ Additional:
 
 ## 📅 Week 6 — Frontend-focused DSA
 
-**Progress:** `0 / 4` **(0%)**
-
 <details>
 <summary><strong>🧠 DSA Essentials</strong> <sub>(0/4)</sub></summary>
 
@@ -337,7 +326,6 @@ Additional:
 
 ### 🏁 Final Notes
 
-> 🔁 Keep tracking progress daily
 > 🧠 Focus on **why** behind each concept
 > 💻 Practice by implementing everything you learn
 > 🎤 Mock interviews boost confidence
