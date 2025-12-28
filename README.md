@@ -18,7 +18,7 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 * [ ] HTML5 Features
 * [ ] Document Structure
 * [ ] Forms (Input Types, Attributes, Validations)
-* [ ] Semantic Tags
+* [x] Semantic Tags
 * [ ] Meta Tags
 * [ ] Media Tags (img/audio/video)
 * [ ] SEO with HTML
@@ -29,17 +29,17 @@ A complete **day-by-day roadmap**, **topic checklist**, and **project plan** to 
 <details>
 <summary><strong>🎨 CSS Topics</strong>  <sub>(0/12)</sub></summary>
 
-* [ ] Box Model
-* [ ] Cascading
-* [ ] Specificity
-* [ ] Flexbox
-* [ ] Grid
-* [ ] CSS Selectors
+* [x] Box Model
+* [x] Cascading
+* [x] Specificity
+* [x] Flexbox
+* [x] Grid
+* [x] CSS Selectors
 * [ ] Pseudo-classes vs Pseudo-elements
 * [ ] Measurement Units
 * [ ] Positioning
 * [ ] Animations & Transitions
-* [ ] z-index
+* [x] z-index
 * [ ] Accessibility
 
 </details>
